@@ -10,7 +10,7 @@ The BTA-community is an organization committed to fostering collaboration and in
 
 - **Collaboration**: Embracing the power of teamwork, we work on diverse projects that span various technologies and domains.
 
-- **Learning Hub**: Whether you're a seasoned developer or just embarking on your coding journey, Puff Adders provides a learning hub where knowledge is shared, questions are answered, and skills are honed.
+- **Learning Hub**:BTA-community provides a learning hub where knowledge is shared, questions are answered, and skills are honed.
 
 - **Inclusivity**: Diversity is our strength. We welcome contributors from all backgrounds, skill levels, and experiences.
 
